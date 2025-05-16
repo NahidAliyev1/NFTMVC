@@ -1,0 +1,785 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\Admin\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\Admin\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\Admin\\assets\\img\\testimonial-1.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\testimonial-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\Admin\\assets\\img\\testimonial-2.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\testimonial-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\Admin\\assets\\img\\user.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\user.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\Admin\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\Admin\\assets\\lib\\chart\\chart.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\lib\\chart\\chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\Admin\\assets\\lib\\easing\\easing.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\lib\\easing\\easing.js"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\Admin\\assets\\lib\\easing\\easing.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\lib\\easing\\easing.min.js"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\Admin\\assets\\lib\\owlcarousel\\LICENSE",
+      "PackagePath": "staticwebassets\\Admin\\assets\\lib\\owlcarousel"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\Admin\\assets\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\Admin\\assets\\lib\\owlcarousel\\assets\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\Admin\\assets\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\lib\\owlcarousel\\assets\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\Admin\\assets\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\Admin\\assets\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\lib\\owlcarousel\\assets\\owl.theme.default.css"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\Admin\\assets\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\Admin\\assets\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\lib\\owlcarousel\\assets\\owl.theme.green.css"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\Admin\\assets\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\Admin\\assets\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\lib\\owlcarousel\\assets\\owl.video.play.png"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\Admin\\assets\\lib\\owlcarousel\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\lib\\owlcarousel\\owl.carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\Admin\\assets\\lib\\owlcarousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\lib\\owlcarousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\Admin\\assets\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\Admin\\assets\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\Admin\\assets\\lib\\tempusdominus\\js\\moment-timezone.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\lib\\tempusdominus\\js\\moment-timezone.min.js"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\Admin\\assets\\lib\\tempusdominus\\js\\moment.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\lib\\tempusdominus\\js\\moment.min.js"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\Admin\\assets\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\Admin\\assets\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\Admin\\assets\\lib\\waypoints\\links.php",
+      "PackagePath": "staticwebassets\\Admin\\assets\\lib\\waypoints\\links.php"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\Admin\\assets\\lib\\waypoints\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\lib\\waypoints\\waypoints.min.js"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\_accordion.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\_accordion.scss"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\_alert.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\_badge.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\_button-group.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\_button-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\_buttons.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\_card.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\_card.scss"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\_carousel.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\_carousel.scss"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\_close.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\_close.scss"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\_containers.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\_containers.scss"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\_forms.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\_grid.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\_helpers.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\_helpers.scss"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\_images.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\_images.scss"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\_list-group.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\_modal.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\_modal.scss"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\_nav.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\_nav.scss"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\_offcanvas.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\_offcanvas.scss"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\_pagination.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\_popover.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\_popover.scss"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\_progress.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\_reboot.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\_reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\_root.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\_root.scss"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\_spinners.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\_spinners.scss"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\_tables.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\_toasts.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\_toasts.scss"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\_tooltip.scss"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\_transitions.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\_transitions.scss"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\_type.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\_type.scss"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\bootstrap-utilities.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\bootstrap-utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\forms\\_form-control.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\forms\\_form-control.scss"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\forms\\_form-range.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\forms\\_form-range.scss"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\forms\\_form-text.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\forms\\_form-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\forms\\_labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\forms\\_validation.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\forms\\_validation.scss"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\helpers\\_position.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\helpers\\_position.scss"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\helpers\\_ratio.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\helpers\\_ratio.scss"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_container.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_container.scss"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_image.scss"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_utilities.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\utilities\\_api.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\utilities\\_api.scss"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\Admin\\assets\\scss\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\bootstrap\\scss\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\assets\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\assets\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\assets\\css\\animate.css",
+      "PackagePath": "staticwebassets\\assets\\css\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\assets\\css\\flex-slider.css",
+      "PackagePath": "staticwebassets\\assets\\css\\flex-slider.css"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\assets\\css\\fontawesome.css",
+      "PackagePath": "staticwebassets\\assets\\css\\fontawesome.css"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\assets\\css\\owl.css",
+      "PackagePath": "staticwebassets\\assets\\css\\owl.css"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\assets\\css\\templatemo-liberty-market.css",
+      "PackagePath": "staticwebassets\\assets\\css\\templatemo-liberty-market.css"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\assets\\images\\author-02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\author-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\assets\\images\\author-03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\author-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\assets\\images\\author.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\author.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\assets\\images\\banner-01.png",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-01.png"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\assets\\images\\banner-02.png",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-02.png"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\assets\\images\\banner-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\assets\\images\\category-collection-dec.png",
+      "PackagePath": "staticwebassets\\assets\\images\\category-collection-dec.png"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\assets\\images\\collection-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\collection-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\assets\\images\\create-yours.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\create-yours.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\assets\\images\\current-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\current-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\assets\\images\\current-02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\current-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\assets\\images\\current-03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\current-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\assets\\images\\current-04.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\current-04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\assets\\images\\dark-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\dark-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\assets\\images\\discover-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\discover-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\assets\\images\\discover-02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\discover-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\assets\\images\\discover-03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\discover-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\assets\\images\\discover-04.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\discover-04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\assets\\images\\discover-05.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\discover-05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\assets\\images\\discover-06.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\discover-06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\assets\\images\\featured-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\featured-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\assets\\images\\featured-02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\featured-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\assets\\images\\featured-03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\featured-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\assets\\images\\featured-04.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\featured-04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\assets\\images\\heading-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\heading-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\assets\\images\\icon-01.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icon-01.png"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\assets\\images\\icon-02.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icon-02.png"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\assets\\images\\icon-03.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icon-03.png"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\assets\\images\\icon-04.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icon-04.png"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\assets\\images\\icon-05.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icon-05.png"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\assets\\images\\icon-06.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icon-06.png"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\assets\\images\\item-details-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\item-details-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\assets\\images\\logo.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\assets\\images\\main-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\main-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\assets\\images\\market-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\market-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\assets\\images\\single-author.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\single-author.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\assets\\jquery\\jquery.js",
+      "PackagePath": "staticwebassets\\assets\\jquery\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\assets\\jquery\\jquery.min.js",
+      "PackagePath": "staticwebassets\\assets\\jquery\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\assets\\jquery\\jquery.min.map",
+      "PackagePath": "staticwebassets\\assets\\jquery\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\assets\\jquery\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\assets\\jquery\\jquery.slim.js"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\assets\\jquery\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\assets\\jquery\\jquery.slim.min.js"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\assets\\jquery\\jquery.slim.min.map",
+      "PackagePath": "staticwebassets\\assets\\jquery\\jquery.slim.min.map"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\assets\\js\\custom.js",
+      "PackagePath": "staticwebassets\\assets\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\assets\\js\\isotope.js",
+      "PackagePath": "staticwebassets\\assets\\js\\isotope.js"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\assets\\js\\isotope.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\isotope.min.js"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\assets\\js\\owl-carousel.js",
+      "PackagePath": "staticwebassets\\assets\\js\\owl-carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\assets\\js\\popup.js",
+      "PackagePath": "staticwebassets\\assets\\js\\popup.js"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\assets\\js\\tabs.js",
+      "PackagePath": "staticwebassets\\assets\\js\\tabs.js"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\assets\\uploadedImages\\Billie-Eilish_468daa78-ac3b-4f4e-8d4e-beb25b94c0555d5f2ef5-ea5f-44ee-8ea3-39677c0f3cc4.png",
+      "PackagePath": "staticwebassets\\assets\\uploadedImages\\Billie-Eilish_468daa78-ac3b-4f4e-8d4e-beb25b94c0555d5f2ef5-ea5f-44ee-8ea3-39677c0f3cc4.png"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\assets\\uploadedImages\\Billie-Eilish_468daa78-ac3b-4f4e-8d4e-beb25b94c055c9348cf3-0d1f-4b89-89a5-eb3807b9a4f5.png",
+      "PackagePath": "staticwebassets\\assets\\uploadedImages\\Billie-Eilish_468daa78-ac3b-4f4e-8d4e-beb25b94c055c9348cf3-0d1f-4b89-89a5-eb3807b9a4f5.png"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\assets\\uploadedImages\\cahite706ea8a-94de-4560-a422-e35757e824c0.jfif",
+      "PackagePath": "staticwebassets\\assets\\uploadedImages\\cahite706ea8a-94de-4560-a422-e35757e824c0.jfif"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\assets\\uploadedImages\\gariban4504207c-2d56-4774-afe4-01ef37e7f55a.jfif",
+      "PackagePath": "staticwebassets\\assets\\uploadedImages\\gariban4504207c-2d56-4774-afe4-01ef37e7f55a.jfif"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\assets\\uploadedImages\\gariban8b912cea-2481-40d4-ba58-0e5a67749ad7.jfif",
+      "PackagePath": "staticwebassets\\assets\\uploadedImages\\gariban8b912cea-2481-40d4-ba58-0e5a67749ad7.jfif"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\assets\\uploadedImages\\polat06a65a18-c24c-42c9-a3d3-00fd131f0571.jpg",
+      "PackagePath": "staticwebassets\\assets\\uploadedImages\\polat06a65a18-c24c-42c9-a3d3-00fd131f0571.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\assets\\uploadedImages\\polat84782e3a-ea5e-434a-a8c1-c94309d9f7bf.jpg",
+      "PackagePath": "staticwebassets\\assets\\uploadedImages\\polat84782e3a-ea5e-434a-a8c1-c94309d9f7bf.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\assets\\uploadedImages\\polata0889478-d40c-411e-b3be-a76885723adc.jpg",
+      "PackagePath": "staticwebassets\\assets\\uploadedImages\\polata0889478-d40c-411e-b3be-a76885723adc.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\assets\\uploadedImages\\polataf8d8e59-c992-4fc0-b81c-c25a82caf97c.jpg",
+      "PackagePath": "staticwebassets\\assets\\uploadedImages\\polataf8d8e59-c992-4fc0-b81c-c25a82caf97c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\assets\\uploadedImages\\recep03204cbb-2bab-4c63-820b-192ff46e7d49.jpg",
+      "PackagePath": "staticwebassets\\assets\\uploadedImages\\recep03204cbb-2bab-4c63-820b-192ff46e7d49.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\assets\\uploadedImages\\recep38b42720-5487-4dbe-aa5c-93143dde5312.jpg",
+      "PackagePath": "staticwebassets\\assets\\uploadedImages\\recep38b42720-5487-4dbe-aa5c-93143dde5312.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\assets\\uploadedImages\\recep421acb71-f5a2-40fb-a76c-2a689fe24fd6.jpg",
+      "PackagePath": "staticwebassets\\assets\\uploadedImages\\recep421acb71-f5a2-40fb-a76c-2a689fe24fd6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\assets\\uploadedImages\\recep43009467-9534-4a0e-8209-6b0190a45c7f.jpg",
+      "PackagePath": "staticwebassets\\assets\\uploadedImages\\recep43009467-9534-4a0e-8209-6b0190a45c7f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\assets\\uploadedImages\\recepa4d40f59-d243-41ab-aa40-5818f584d22a.jpg",
+      "PackagePath": "staticwebassets\\assets\\uploadedImages\\recepa4d40f59-d243-41ab-aa40-5818f584d22a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\assets\\uploadedImages\\recepd5236872-366d-4540-9aab-01767703430f.jpg",
+      "PackagePath": "staticwebassets\\assets\\uploadedImages\\recepd5236872-366d-4540-9aab-01767703430f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\assets\\uploadedImages\\recepd7c5dc8b-24c0-4476-8ff0-71425321e534.jpg",
+      "PackagePath": "staticwebassets\\assets\\uploadedImages\\recepd7c5dc8b-24c0-4476-8ff0-71425321e534.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\assets\\uploadedImages\\recepf6233846-b02a-4186-8fcc-bc3d4bdeed18.jpg",
+      "PackagePath": "staticwebassets\\assets\\uploadedImages\\recepf6233846-b02a-4186-8fcc-bc3d4bdeed18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\assets\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\assets\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\assets\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\assets\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\assets\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\assets\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\assets\\webfonts\\fa-v4compatibility.ttf",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-v4compatibility.ttf"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\NFTMVC\\NFTMVC.MVC\\wwwroot\\assets\\webfonts\\fa-v4compatibility.woff2",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-v4compatibility.woff2"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.NFTMVC.MVC.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.NFTMVC.MVC.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.NFTMVC.MVC.props",
+      "PackagePath": "build\\NFTMVC.MVC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.NFTMVC.MVC.props",
+      "PackagePath": "buildMultiTargeting\\NFTMVC.MVC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.NFTMVC.MVC.props",
+      "PackagePath": "buildTransitive\\NFTMVC.MVC.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,51 @@
+﻿@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@addTagHelper *, AuthoringTagHelpers
+
+
+@using NFTMVC.DAL.Models
+@model List<Collections>
+<!-- Table Start -->
+<div class="container-fluid pt-4 px-4">
+    <div class="row g-4">
+        <div class="col-sm-12 col-xl-12">
+            <div class="bg-secondary rounded h-100 p-4">
+                <h6 class="mb-4">Collections</h6>
+
+                <a asp-area="Admin" asp-controller="Collections" asp-action="Create" >Create</a>
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <th scope="col">#</th>
+                            <th scope="col">Image</th>
+                            <th scope="col">Category Name</th>
+                            <th scope="col">Collection Number</th>
+                            <th scope="col">Name</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (Collections item in Model)
+                        {
+                            <tr>
+                                <th scope="row">@item.Id</th>
+                                <td>
+                                    <img src="~/assets/uploadedImages/@item.ImgPath">
+                                </td>
+                                <td>@item.CategoryName</td>
+                                <td>@item.CollectionNumber</td>
+                                <td>@item.Name</td>
+                                <td>
+                                    <a asp-area="Admin" asp-controller="Collections" asp-action="Info" asp-route-id="@item.Id" class="btn btn-info m-2">Info</a>
+                                    <a asp-area="Admin" asp-controller="Collections" asp-action="Update" asp-route-id="@item.Id" class="btn btn-warning m-2">Update</a>
+                                    <a asp-area="Admin" asp-controller="Collections" asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger m-2">Delete</a>
+                                </td>
+                            </tr>
+                        }
+
+                                </tbody>
+                            </table>
+                        </div>
+                   </div>
+                </div>
+            </div>
+            <!-- Table End -->
+            

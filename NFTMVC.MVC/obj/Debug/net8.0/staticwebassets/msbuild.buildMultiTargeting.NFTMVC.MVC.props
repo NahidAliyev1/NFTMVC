@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\NFTMVC.MVC.props" />
+</Project>

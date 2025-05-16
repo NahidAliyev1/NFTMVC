@@ -1,0 +1,14 @@
+C:\Users\II Novbe\source\repos\NFTMVC\NFTMVC.DAL\bin\Debug\net8.0\NFTMVC.DAL.deps.json
+C:\Users\II Novbe\source\repos\NFTMVC\NFTMVC.DAL\bin\Debug\net8.0\NFTMVC.DAL.dll
+C:\Users\II Novbe\source\repos\NFTMVC\NFTMVC.DAL\bin\Debug\net8.0\NFTMVC.DAL.pdb
+C:\Users\II Novbe\source\repos\NFTMVC\NFTMVC.DAL\obj\Debug\net8.0\NFTMVC.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II Novbe\source\repos\NFTMVC\NFTMVC.DAL\obj\Debug\net8.0\NFTMVC.DAL.AssemblyInfoInputs.cache
+C:\Users\II Novbe\source\repos\NFTMVC\NFTMVC.DAL\obj\Debug\net8.0\NFTMVC.DAL.AssemblyInfo.cs
+C:\Users\II Novbe\source\repos\NFTMVC\NFTMVC.DAL\obj\Debug\net8.0\NFTMVC.DAL.csproj.CoreCompileInputs.cache
+C:\Users\II Novbe\source\repos\NFTMVC\NFTMVC.DAL\obj\Debug\net8.0\NFTMVC.DAL.dll
+C:\Users\II Novbe\source\repos\NFTMVC\NFTMVC.DAL\obj\Debug\net8.0\refint\NFTMVC.DAL.dll
+C:\Users\II Novbe\source\repos\NFTMVC\NFTMVC.DAL\obj\Debug\net8.0\NFTMVC.DAL.pdb
+C:\Users\II Novbe\source\repos\NFTMVC\NFTMVC.DAL\obj\Debug\net8.0\ref\NFTMVC.DAL.dll
+C:\Users\II Novbe\source\repos\NFTMVC\NFTMVC.DAL\bin\Debug\net8.0\NFTMVC.DAL.runtimeconfig.json
+C:\Users\II Novbe\source\repos\NFTMVC\NFTMVC.DAL\obj\Debug\net8.0\NFTMVC.DAL.csproj.AssemblyReference.cache
+C:\Users\II Novbe\source\repos\NFTMVC\NFTMVC.DAL\obj\Debug\net8.0\NFTMVC.DAL.genruntimeconfig.cache

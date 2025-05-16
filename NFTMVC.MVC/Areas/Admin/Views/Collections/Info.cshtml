@@ -1,0 +1,47 @@
+﻿@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@addTagHelper *, AuthoringTagHelpers
+
+
+@using NFTMVC.DAL.Models
+@model  Collections
+<!-- Table Start -->
+<div class="container-fluid pt-4 px-4">
+    <div class="row g-4">
+        <div class="col-sm-12 col-xl-12">
+            <div class="bg-secondary rounded h-100 p-4">
+                <h6 class="mb-4">Collections</h6>
+
+                <a asp-area="Admin" asp-controller="Collections" asp-action="Create">Create</a>
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <th scope="col">#</th>
+                            <th scope="col">Image</th>
+                            <th scope="col">Category Name</th>
+                            <th scope="col">Collection Number</th>
+                            <th scope="col">Name</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        
+                            <tr>
+                                <th scope="row">@Model.Id</th>
+                            <td>
+                                <img src="~/assets/uploadedImages/@Model.ImgPath">
+                            </td>
+                                <td>@Model.CategoryName</td>
+                                <td>@Model.CollectionNumber</td>
+                                <td>@Model.Name</td>
+                            </tr>
+
+
+
+                        
+
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Table End -->
